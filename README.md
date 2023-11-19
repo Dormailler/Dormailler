@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- 인사말 -->  <!-- 글씨 강조 ** / 줄바꿈<br> 스페이스 두번 이상 -->
 **Hi there** 👋   
-**I am KwonDohyun. Full stack web developer from seoul, Republic of korea** 👨‍💼
+**I am KwonDohyun. Full stack web developer from Republic of korea** 👨‍💼
 
 <!-- 나에 대한 설명 -->  <!-- <h1><h2> # ## 1~6 -->
 ## About me 🌱  
