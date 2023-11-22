@@ -50,7 +50,8 @@ HTML, CSS, JavaScript, React, Spring boot, MYSQL, Python....
 <!-- 3. 이미지 ![대체 텍스트(alt)](이미지_소스_URL "이미지 설명(title)")-->
 <!-- ![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)  이미지 크기 수정 불가 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" heigth="70px"/> 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="70px" heigth="70px"/> 
+
 
 
 <!-- 기타 (github 통계) -->
