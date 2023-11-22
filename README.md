@@ -54,7 +54,7 @@ Web development, cloud platform, AI
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" heigth="70px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70px" heigth="70px"/>  
 </span>
-
+<br>
 
 
 <!-- 1. 글자 -->
@@ -69,7 +69,7 @@ Web development, cloud platform, AI
 
  
 
-
+<br>
 
 <!-- 기타 (github 통계) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dormailler&show_icons=true&theme=radical)
