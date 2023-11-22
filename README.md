@@ -53,7 +53,8 @@ Web development, cloud platform, AI
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" heigth="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70px" heigth="70px"/>
 </span>
-<div></div>
+
+
 <!-- 1. 글자 -->
  React,, Python....
 <!-- 2. 벳지  ![Static Badge](https://img.shields.io/badge/[badgeContent:표시할이름-색상]?style=[plastic, flat, flat-square, for-the-badge, social]&logo=[기술스택아이콘]&logoColor=[로고색])-->
