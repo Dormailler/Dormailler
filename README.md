@@ -41,8 +41,11 @@ Web development, cloud platform, AI
 [3. Sharemarket - Item Rent Web](https://github.com/Dormailler/team03_final_project)
 
 <!-- 사용할 수 있는 언어 및 툴 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70px" heigth="70px" />
+
 ## Language and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70px" heigth="70px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" heigth="70px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70px" heigth="70px"/>
 <!-- 1. 글자 -->
 HTML, CSS, JavaScript, React, Spring boot, MYSQL, Python....
 <!-- 2. 벳지  ![Static Badge](https://img.shields.io/badge/[badgeContent:표시할이름-색상]?style=[plastic, flat, flat-square, for-the-badge, social]&logo=[기술스택아이콘]&logoColor=[로고색])-->
@@ -50,7 +53,7 @@ HTML, CSS, JavaScript, React, Spring boot, MYSQL, Python....
 ![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 <!-- 3. 이미지 ![대체 텍스트(alt)](이미지_소스_URL "이미지 설명(title)")-->
 <!-- ![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)  이미지 크기 수정 불가 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" heigth="70px"/> 
+
  
 
 
