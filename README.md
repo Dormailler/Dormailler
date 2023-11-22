@@ -54,7 +54,7 @@ Web development, cloud platform, AI
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" heigth="70px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70px" heigth="70px"/>  
 </span>
-%20
+<br/>
 
 
 <!-- 1. 글자 -->
