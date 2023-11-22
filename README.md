@@ -46,10 +46,16 @@ Web development, cloud platform, AI
 <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70px" heigth="70px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70px" heigth="70px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" heigth="70px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px" heigth="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" heigth="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70px" heigth="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70px" heigth="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" heigth="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70px" heigth="70px"/>
 </span>
+<div></div>
 <!-- 1. 글자 -->
-HTML, CSS, JavaScript, React, Spring boot, MYSQL, Python....
+ React,, Python....
 <!-- 2. 벳지  ![Static Badge](https://img.shields.io/badge/[badgeContent:표시할이름-색상]?style=[plastic, flat, flat-square, for-the-badge, social]&logo=[기술스택아이콘]&logoColor=[로고색])-->
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
