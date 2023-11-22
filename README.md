@@ -36,8 +36,8 @@ How to reach me: gerrerd@naver.com
 Web development, cloud platform, AI
 <!-- 최근 프로젝트 --> <!-- [표시내용](링크 url) -->
 ## Project
-[1. Happymovie - Movie Information Web](https://github.com/Dormailler/Happy_movie)
-[2. Whenmeet - Schedule Management Web](https://github.com/Dormailler/team01)
+[1. Happymovie - Movie Information Web](https://github.com/Dormailler/Happy_movie)<br/>
+[2. Whenmeet - Schedule Management Web](https://github.com/Dormailler/team01)<br/>
 [3. Sharemarket - Item Rent Web](https://github.com/Dormailler/team03_final_project)
 
 <!-- 사용할 수 있는 언어 및 툴 -->
