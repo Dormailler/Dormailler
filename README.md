@@ -56,7 +56,7 @@ Web development, cloud platform, AI
 
 
 <!-- 1. 글자 -->
- React,, Python....
+
 <!-- 2. 벳지  ![Static Badge](https://img.shields.io/badge/[badgeContent:표시할이름-색상]?style=[plastic, flat, flat-square, for-the-badge, social]&logo=[기술스택아이콘]&logoColor=[로고색])-->
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
