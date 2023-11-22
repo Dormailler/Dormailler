@@ -58,8 +58,10 @@ Web development, cloud platform, AI
 <!-- 1. 글자 -->
 
 <!-- 2. 벳지  ![Static Badge](https://img.shields.io/badge/[badgeContent:표시할이름-색상]?style=[plastic, flat, flat-square, for-the-badge, social]&logo=[기술스택아이콘]&logoColor=[로고색])-->
+<!--
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+-->
 <!-- 3. 이미지 ![대체 텍스트(alt)](이미지_소스_URL "이미지 설명(title)")-->
 <!-- ![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)  이미지 크기 수정 불가 -->
 
