@@ -1,4 +1,4 @@
-![html5](https://github.com/Dormailler/Dormailler/assets/101726788/16809796-3bdb-494c-b6b4-da450ee6f11b)<!-- Hi there 👋 -->
+<!-- Hi there 👋 -->
 
 <!--
 **Dormailler/Dormailler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,6 +41,7 @@ Web development, cloud platform, AI
 [3. Sharemarket - Item Rent Web](https://github.com/Dormailler/team03_final_project)
 
 <!-- 사용할 수 있는 언어 및 툴 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70px" heigth="70px" />
 ## Language and Tools
 <!-- 1. 글자 -->
 HTML, CSS, JavaScript, React, Spring boot, MYSQL, Python....
@@ -50,7 +51,7 @@ HTML, CSS, JavaScript, React, Spring boot, MYSQL, Python....
 <!-- 3. 이미지 ![대체 텍스트(alt)](이미지_소스_URL "이미지 설명(title)")-->
 <!-- ![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)  이미지 크기 수정 불가 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" heigth="70px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="70px" heigth="70px"/> 
+ 
 
 
 
