@@ -53,7 +53,7 @@ Web development, cloud platform, AI
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70px" heigth="70px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" heigth="70px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70px" heigth="70px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70px" heigth="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70px" heigth="70px"/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70px" heigth="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70px" heigth="70px"/>
 <img src="https://i.namu.wiki/i/wGqByFKy0jThNbbsbJXJnLWDMOXjRGF9yLnAX9RYpiEJ6rk3XBKGd-YTEQbI_NOIyIb7h4lwoVKSPK-mzJh3VA.svg" width="70px" heigth="70px"/>
