@@ -74,10 +74,10 @@ Web development, cloud platform, AI
  
 <br/>
 
-
+<span>
 <!-- 기타 (github 통계) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dormailler&show_icons=true&theme=radical)
-
+</span>
 <!-- 기타 (github 사용 언어 그래프) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dormailler&layout=compact)
 
