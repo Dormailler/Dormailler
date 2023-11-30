@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 <!-- 주석 --> 
 
-<!-- 인사말 -->  <!-- 글씨 강조 ** / 줄바꿈<br> 스페이스 두번 이상 -->
-**Hi there** 👋   
-**I am KwonDohyun. Full stack web developer from Republic of korea** 👨‍💼
+<!-- 인사말 -->  <!-- 글씨 강조 ** / 줄바꿈<br> 스페이스 두번 이상 --> 
+
 
 <!-- 나에 대한 설명 -->  <!-- <h1><h2> # ## 1~6 -->
 ## About me 🌱  
+**I am KwonDohyun. Full stack web developer from Republic of korea** 👨‍💼
 I'm currently learning Basic Programming skills like HTML, CSS, JavaScript, Jquery, React, SpringBoot, Mysql....<br/>
 My hobby is to solve 1 coding test every day
 
