@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <!-- 주석 --> 
 
-<!-- 방문자수 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDormailler%2Fhit-counter&count_bg=%23342AE9&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 <!-- 인사말 -->  <!-- 글씨 강조 ** / 줄바꿈<br> 스페이스 두번 이상 -->
 **Hi there** 👋   
 **I am KwonDohyun. Full stack web developer from Republic of korea** 👨‍💼
