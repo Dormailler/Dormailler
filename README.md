@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <!-- 나에 대한 설명 -->  <!-- <h1><h2> # ## 1~6 -->
 ## About me 🌱  
 **I am KwonDohyun. Full stack web developer from Republic of korea** 👨‍💼 <br/>
-I'm currently learning Basic Programming skills like HTML, CSS, JavaScript, Jquery, React, SpringBoot, Mysql....<br/>
 My hobby is to solve 1 coding test every day
 
 <!-- 연락 정보 --> <!-- email,url -->
