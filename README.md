@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <!-- 나에 대한 설명 -->  <!-- <h1><h2> # ## 1~6 -->
 ## About me 🌱  
-**I am KwonDohyun. Full stack web developer from Republic of korea** 👨‍💼 <br/>
-My hobby is solving algorithmic problems.
+**안녕하세요. 백엔드 개발자 권도현입니다.** 👨‍💼 <br/>
+제 취미는 알고리즘 문제 풀기입니다.
 
 <!-- 연락 정보 --> <!-- email,url -->
 ## Connect with me 📫
